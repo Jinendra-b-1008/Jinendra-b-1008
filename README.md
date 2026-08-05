@@ -56,7 +56,6 @@
 - CloudWatch
 
 ---
-
 # 🔥 Featured Projects
 
 ## 🚀 DevSecOps 3-Tier Application
@@ -93,40 +92,7 @@
 ## 🏗 Infrastructure as Code
 
 - Terraform
-- AWS VPC
-- EC2
-- S3
-- IAM
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jinendra-b-1008&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jinendra-b-1008&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinendra-b-1008&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jinendra-b-1008&theme=onedark&row=1&column=7"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jinendra-b-1008&theme=tokyo-night"/>
+- Ansible
 
 ---
 
