@@ -58,15 +58,32 @@
 ---
 # 🔥 Featured Projects
 
-## 🚀 DevSecOps 3-Tier Application
+## 🚀 DevSecOps 3-Tier Mega Project
 
-- Docker
-- Kubernetes
-- Jenkins
-- SonarQube
-- Trivy
-- Prometheus
-- Grafana
+**Tech Stack:** AWS • Docker • Kubernetes • Jenkins • Terraform • SonarQube • Trivy • Prometheus • Grafana • ArgoCD • Helm • Nginx • MongoDB
+
+### 📖 Overview
+Designed and implemented an end-to-end **DevSecOps pipeline** for a three-tier application by automating infrastructure provisioning, containerization, CI/CD, security scanning, Kubernetes deployment, and monitoring on AWS. The project demonstrates production-ready DevOps practices and modern cloud-native deployment strategies. :contentReference[oaicite:0]{index=0}
+
+### ✨ Key Features
+
+- 🐳 Containerized frontend and backend applications using **Docker**.
+- ☸️ Deployed the application on **Amazon EKS (Kubernetes)**.
+- ⚙️ Built a complete **Jenkins CI/CD pipeline** for automated build and deployment.
+- 🔍 Integrated **SonarQube** for static code quality analysis.
+- 🛡️ Performed container vulnerability scanning using **Trivy**.
+- 📊 Configured **Prometheus** and **Grafana** for real-time monitoring and dashboards.
+- 🔄 Enabled rolling updates and simplified application rollbacks.
+- 🔐 Applied Kubernetes Secrets and ConfigMaps for secure configuration management.
+- 📈 Designed a scalable, secure, and production-ready cloud-native architecture.
+
+### 🎯 Skills Demonstrated
+
+`AWS` • `Docker` • `Kubernetes`  • `Jenkins`  • `Linux` • `Bash` • `SonarQube` • `Trivy` • `Prometheus` • `Grafana` • `MySql`
+
+### 🔗 Repository
+
+**GitHub:** https://github.com/Jinendra-b-1008/3-Tier-DevSecOps-Mega-Project
 
 ---
 
