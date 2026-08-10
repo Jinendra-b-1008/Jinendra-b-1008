@@ -18,7 +18,6 @@
 - ⚙️ Automating infrastructure using Terraform & Ansible
 - 🚀 Creating CI/CD pipelines using Jenkins & GitHub Actions
 - 📊 Monitoring applications using Prometheus & Grafana
-- 🌱 Currently learning Azure DevOps & GitOps
 - 📫 Reach me: **jyamakanmaradi.com**
 
 ---
